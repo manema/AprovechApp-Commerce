@@ -1,0 +1,4 @@
+#Wed Mar 04 21:36:51 UYT 2020
+base.0=/Users/emanuel/Desktop/Universidad/tesis/aprovechapp_commerce/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
